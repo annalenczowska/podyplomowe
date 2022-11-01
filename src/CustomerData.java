@@ -11,5 +11,7 @@ public class CustomerData {
             System.out.println("Welcome, " + firstName + " " + lastName + "!");
             System.out.println("Your customer ID number is " + customerID + ".");
 
+            // dodany komentarz
+
         }
 }
